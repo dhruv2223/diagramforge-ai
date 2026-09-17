@@ -6,7 +6,6 @@
 
 *"Draw the OAuth authorization-code flow"* → a labeled, connected, overlap-free sequence diagram you can keep editing by hand or by chat.
 
-![DiagramForge AI screenshot](assets/screenshot.png)
 
 `TypeScript` · `React 19` · `Vercel AI SDK` · `OpenAI GPT-5.4` · `Cloudflare Workers + Durable Objects` · `Excalidraw` · `Upstash Vector` · `Tavily` · `Braintrust` · `Zod`
 
