@@ -103,7 +103,7 @@ npm run embed
 ### Setup
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/dhruv2223/diagramforge-ai
 cd diagramforge-ai
 npm install
 
