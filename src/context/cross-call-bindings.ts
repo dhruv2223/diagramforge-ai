@@ -21,9 +21,8 @@
 //   with updated boundElements so Excalidraw's bidirectional binding tracking
 //   sees the new arrows.
 //
-// during the workshop. The interesting code is in `applySkeleton.ts` and the
-// noOverlaps scorer; this is just plumbing around an Excalidraw helper
-// limitation.
+// This is plumbing around an Excalidraw helper limitation. The interesting
+// code is in `applySkeleton.ts` and the noOverlaps scorer.
 
 interface SkeletonLike {
   type?: unknown;
