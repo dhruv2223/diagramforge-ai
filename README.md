@@ -438,11 +438,3 @@ evals/
 data/corpus/              # RAG source documents
 assets/                   # README screenshots
 ```
-
----
-
-<div align="center">
-
-Built with ✳️ Claude, ☁️ Cloudflare and 🎨 Excalidraw
-
-</div>
